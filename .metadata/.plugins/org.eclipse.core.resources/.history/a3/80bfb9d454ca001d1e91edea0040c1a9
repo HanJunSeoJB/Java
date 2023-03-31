@@ -1,0 +1,6 @@
+package dynamic_beat_1;
+
+public class Note extends Thread{
+	
+	private Image noteBasicImage = new ImageIcon(Main.class.getResource("../IMAGES/note_basic.png")).getImage();
+}

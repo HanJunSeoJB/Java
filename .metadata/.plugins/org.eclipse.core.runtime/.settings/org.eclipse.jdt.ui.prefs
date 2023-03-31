@@ -1,0 +1,11 @@
+content_assist_autoactivation_triggers_java=.
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="reference.Point"><rhs name\="reference.Point"/></lhs><lhs name\="reference.Subject"><rhs name\="reference.Subject"/></lhs><lhs name\="singleton.Company"><rhs name\="singleton.Company"/></lhs><lhs name\="inheritance.Customer"><rhs name\="inheritance.VIPCustomer"/></lhs><lhs name\="template.Car"><rhs name\="template.ManualCar"/></lhs><lhs name\="lambda.StringConcat"><rhs name\="lambda.StringConcatImpl"/></lhs><lhs name\="lambda.StringConcatImpl"><rhs name\="lambda.StringConcatImpl"/></lhs><lhs name\="stream.TravelCustomer"><rhs name\="stream.TravelCustomer"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="stream.inputstream.FileInputStream"><rhs name\="stream.inputstream.FileInputStream"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.io.FileInputStream"/><rhs name\="java.io.BufferedInputStream"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.io.FileInputStream"/><rhs name\="java.io.BufferedInputStream"/></lhs><lhs name\="java.io.InputStream"><rhs name\="java.io.FileInputStream"/><rhs name\="java.io.BufferedInputStream"/></lhs><lhs name\="java.io.FileInputStream"><rhs name\="java.io.FileInputStream"/></lhs><lhs name\="java.io.FilterInputStream"><rhs name\="java.io.BufferedInputStream"/></lhs><lhs name\="java.io.BufferedInputStream"><rhs name\="java.io.BufferedInputStream"/></lhs><lhs name\="java.lang.Exception"><rhs name\="java.lang.InterruptedException"/></lhs><lhs name\="java.lang.Throwable"><rhs name\="java.lang.InterruptedException"/></lhs><lhs name\="java.lang.InterruptedException"><rhs name\="java.lang.InterruptedException"/></lhs></history>
+content_assist_number_of_computers=12
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=22
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
